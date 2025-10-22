@@ -1,6 +1,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
+
+@font-face {
+  font-family: "emphasis";
+  src: url("../fonts/LT\ Emphasis\ Bold.ttf");
+}
+
 .roboto {
       font-family: "Roboto", sans-serif;
     }
@@ -17,4 +23,8 @@
       font-family: "Comfortaa", sans-serif;
     }
 
-orange: FDC435
+/* .projects{
+  height: 1892px;
+  width: 992px;
+  margin: 114px 222px;
+} */
