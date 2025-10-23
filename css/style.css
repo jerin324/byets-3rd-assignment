@@ -1,33 +1,25 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 
-<<<<<<< HEAD
 @font-face {
   font-family: "emphasis";
   src: url("../fonts/LT\ Emphasis\ Bold.ttf");
 }
-=======
->>>>>>> 330b38c9c1947694f5bd3b1d6e4ecb62240d1e6a
 
 .roboto {
-  font-family: "Roboto", sans-serif;
-}
+      font-family: "Roboto", sans-serif;
+    }
 
-.playfair {
-  font-family: "Playfair Display", serif;
-}
+    .playfair {
+      font-family: "Playfair Display", serif;
+    }
 
-.nunito {
-  font-family: "Nunito", sans-serif;
-}
+    .nunito {
+      font-family: "Nunito", sans-serif;
+    }
 
-<<<<<<< HEAD
     .comfortaa {
       font-family: "Comfortaa", sans-serif;
     }
-=======
-.comfortaa {
-  font-family: "Comfortaa", sans-serif;
-}
 
->>>>>>> 330b38c9c1947694f5bd3b1d6e4ecb62240d1e6a
