@@ -23,3 +23,30 @@
       font-family: "Comfortaa", sans-serif;
     }
 
+
+
+    /* footer start  */
+      <div class="row">
+        <div class="col-12   mt-5">
+          <div class="d-flex flex-column justify-content-center align-items-center">
+            <div class="social-icons">
+
+              <img src="./images/footer/ph_instagram-logo-fill.png" alt="">
+
+
+              <img src="./images/footer/bi_linkedin.png" alt="">
+
+
+              <img src="./images/footer/ph_instagram-logo-fill.png" alt="">
+            </div>
+
+            <div class="footer-text">
+              <p class="nunito fw-medium fs-6 mt-4"> Madelyn Torff 2021 </p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+     /* footer end   */
+
+
